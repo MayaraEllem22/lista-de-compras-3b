@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Não comprados"
+    },
+    {
+      "id": 2,
+      "name": "Comprado"
+    },
+    {
+      "id": 3,
+      "name": "Comprar depois"
+    }
+  ],
+  "foods": [
+    {
+      "name": "ARROZ",
+      "quantidade": 5,
+      "category_id": 1
+    },
+    {
+      "name": "FEIJÃO",
+      "quantidade": 7,
+      "category_id": 2
+    }
+  ]
+}
